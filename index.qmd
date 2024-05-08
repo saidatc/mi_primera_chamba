@@ -1,11 +1,11 @@
 ---
-title: "mi_primera_chamba"
+title: "Mi primera chamba"
 ---
 
-This is a Quarto website.
+# HOLA
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Bienvenido a mi primer sitio web.
 
-```{r}
-1 + 1
-```
+# FECHA
+
+Esta pagina web fue creada el 5 de mayo de 2024

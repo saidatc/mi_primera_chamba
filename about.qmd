@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "Acerca"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Esta es mi primera página web creada en quarto

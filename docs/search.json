@@ -2,15 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mi_primera_chamba",
+    "title": "Mi primera chamba",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "HOLA\nBienvenido a mi primer sitio web.\n\n\nFECHA\nEsta pagina web fue creada el 5 de mayo de 2024"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Acerca",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Esta es mi primera página web creada en quarto"
   }
 ]

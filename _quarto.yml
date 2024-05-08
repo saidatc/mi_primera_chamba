@@ -3,18 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "mi_primera_chamba"
+  title: "Mi primera chamba"
+  image: icon.png
   navbar:
+    logo: icon.png
+    title: false
     left:
       - href: index.qmd
-        text: Home
+        text: Hola
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: quartz
     css: styles.css
     toc: true
+    toc-location: right
+    toc-title: Contenidos
 
 
 
